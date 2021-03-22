@@ -7,6 +7,7 @@
 
 - [Sobre](#-sobre)
 - [Tecnologias](#-tecnologias)
+- [Os cursos realizados](#-os-cursos-realizados)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 
 ---
