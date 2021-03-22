@@ -19,7 +19,7 @@ Este projeto foi desenvolvido a partir dos cursos de Git e GitHub oferecidos pel
 
 # 📚 Os cursos realizados
 
-- [Git e Github: Controle e compartilhe seu código]()
+- [Git e Github: Controle e compartilhe seu código](https://www.alura.com.br/curso-online-git-github-controle-de-versao)
 - [Git e Github: Estratégias de ramificação, Conflitos e Pull Requests](https://www.alura.com.br/curso-online-git-github-branching-conflitos-pull-requests)
 
 ---
