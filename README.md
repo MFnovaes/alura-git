@@ -21,6 +21,8 @@
 
 Este projeto foi desenvolvido a partir dos cursos de Git e GitHub oferecidos pela plataforma de cursos online Alura com o intuíto de por em prática o que foi aprendido nos cursos.
 
+---
+
 # 📚 Os cursos realizados
 
 - [Git e Github: Controle e compartilhe seu código]()
@@ -47,3 +49,7 @@ $ git clone https://github.com/MFnovaes/alura-git.git
 #Entrar na pasta
 $ cd alura-git
 ```
+
+---
+
+Desenvolvido por Marcus Felipe 😀
