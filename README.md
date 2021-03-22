@@ -6,8 +6,8 @@
 # Índice
 
 - [Sobre](#-sobre)
-- [Tecnologias](#-tecnologias)
 - [Os cursos realizados](#-os-cursos-realizados)
+- [Tecnologias](#-tecnologias)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 
 ---
